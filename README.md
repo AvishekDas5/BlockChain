@@ -53,6 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 **Authors:**
 - [the-sauravkumar](https://github.com/the-sauravkumar)
 - [harshitchugh001](https://github.com/harshitchugh001)
+- [AvishekDas5](https://github.com/AvishekDas5)
 
 ---
 
